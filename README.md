@@ -9,3 +9,10 @@ How it Works:
 Specify YouTube channel IDs.
 Run get_channel_stats to pull statistics for each channel.
 Process and display the data to understand and visualize audience engagement metrics.
+
+Resources from Youtub Data API:
+
+Channels Resource: Used to collected statistics(video count, channel views, subscriber count) and channel status(initiation date, channel name, channel ID)
+Video Resource: Used to collect video statistics for videos
+
+
